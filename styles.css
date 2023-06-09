@@ -1,0 +1,58 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.home{
+    background-color: grey;
+}
+
+.welcome{
+    text-align: center;
+    width: 90%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    color: black;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li a{
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    width: 90px;
+    text-decoration: none;
+    text-align: center;
+}
+
+li{
+    float: left;
+}
+
+a:hover {
+    background-color: black;
+  }
+
+  li a:active {
+    background-color: black;
+  }
+  .img{
+    background: url(traff.jpg) center/cover;
+  }
+  .foot{
+    margin: 0;
+    padding: 20\px;
+  }
+  .row{
+    margin: 0;
+    padding: 20px;
+  }
+  
