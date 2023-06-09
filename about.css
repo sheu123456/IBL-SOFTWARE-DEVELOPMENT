@@ -1,0 +1,23 @@
+body{
+    background-color: silver;
+}
+
+.about{
+    text-align: center;
+    margin: 0;
+    padding: 40px;
+}
+
+.content{
+    background: grey;
+    padding: 50px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.content1{
+    background: grey;
+    padding: 50px;
+    text-align: center;
+    border-radius: 15px;
+}
